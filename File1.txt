@@ -6,4 +6,8 @@ chnages done in remote by my team mate. need to pull to local
 
 change some bug fixes on local
 
+
 chnage done by some of my team mate in master to test 3 way merging
+
+change some bug 2 fixes
+
