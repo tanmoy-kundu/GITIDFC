@@ -19,4 +19,6 @@ Changes done by some of my team mate in remote to test rebase.
 
 Change 6: made on local master to test rebase for feature login
 
+chnage 7: to test stash. now completed
+
 
