@@ -13,6 +13,10 @@ change some bug 2 fixes
 
 Changes done by some of my team mate in master to test rebase.
 
+
 Changes done by some of my team mate in remote to test rebase.
+
+
+Change 6: made on local master to test rebase for feature login
 
 
