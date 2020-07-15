@@ -11,3 +11,5 @@ chnage done by some of my team mate in master to test 3 way merging
 
 change some bug 2 fixes
 
+Changes done by some of my team mate in master to test rebase.
+
